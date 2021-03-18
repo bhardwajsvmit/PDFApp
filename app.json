@@ -1,0 +1,12 @@
+{
+  "name": "PDFapp",
+  "displayName": "PDFapp",
+  "expo": {
+    "name": "PDFapp",
+    "slug": "PDFapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
